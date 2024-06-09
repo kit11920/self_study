@@ -1,0 +1,23 @@
+hellochild
+helto<left><bspace>l<delete>ochilds<bspace>
+
+akeg
+abcdefg<right><delete><left><left><left><delete><right>ke<left><left><bspace><bspace><bspace><bspace><left><left><bspace><right>
+
+abcdefg
+abcdefg
+abcdefg ->e
+abcdfg ->f
+abcdfg ->g
+abcdfkeg ->g
+abcdfkeg ->k
+akeg ->k
+akeg -> a
+
+programming
+programming<left><left><right><delete>
+
+
+
+hellochild
+helto<left><bspace>l<delete>ochilds<bspace>
